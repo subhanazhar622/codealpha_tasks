@@ -72,8 +72,4 @@ A console-based banking system built using Object-Oriented Programming concepts.
 
 ## Author
 
-**Subhan Azhar**
-Github: @subhanazhar622
-## Author
-
-**Subhan Azhar**
+**Subhan
